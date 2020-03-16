@@ -6,3 +6,5 @@ def initialize(name)
 end
 
 end
+
+Song.new
