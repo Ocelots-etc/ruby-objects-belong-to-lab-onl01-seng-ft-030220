@@ -7,5 +7,5 @@ def initialize(name)
 end
 end
 
-artist.new
+artist.new = "Beyonce"
 artist.name
